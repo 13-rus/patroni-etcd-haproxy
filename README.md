@@ -1,1 +1,1 @@
-# patroni-etcd-haproxy
+# patroni-etcd-haproxy-keepalived
